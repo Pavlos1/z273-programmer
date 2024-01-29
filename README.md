@@ -5,10 +5,10 @@ safety features. Requires an Arduino Mega 2560 and a regulated 21V/25V voltage
 source.
 
 Supports:
-* Programming in-situ (i.e. connecting directly to a Z273 mode)
+* Programming in-situ (i.e. connecting directly to a Z273 module)
 * Programming a stand-alone EPROM
 
-EPROMS supported:
+EPROMs supported:
 * 2716 (UVEPROM)
 * AT28C16 (EEPROM)
 
